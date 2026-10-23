@@ -1,5 +1,31 @@
-This is a read-only mirror repository for use by the Swift Package Manager.
+# Azure Communication Calling Service client library for iOS
 
-To view the latest changes, github issues, and pull requests please go to the main umbrella repository [azure-sdk-for-ios](https://github.com/Azure/azure-sdk-for-ios).
+This package contains common code for Azure Communication Calling Services libraries.
 
-To view the documentation and source code for this package you can also select the release version via one of the [git tags](https://github.com/Azure/SwiftPM-AzureCommunicationCalling/tags).
+[API reference documentation](https://docs.microsoft.com/objectivec/communication-services/calling/)
+| [Product documentation](https://docs.microsoft.com/azure/communication-services/overview)
+
+## Getting started
+
+Please follow the quickstart documentation [here](https://docs.microsoft.com/azure/communication-services/quickstarts/voice-video-calling/calling-client-samples?pivots=platform-ios).
+
+## Key concepts
+
+[Calling SDK Overview](https://docs.microsoft.com/azure/communication-services/concepts/voice-video-calling/calling-sdk-features).
+
+## Examples
+
+[Voice calling sample app](https://docs.microsoft.com/azure/communication-services/quickstarts/voice-video-calling/getting-started-with-calling?pivots=platform-ios)
+[Video calling sample app](https://docs.microsoft.com/azure/communication-services/quickstarts/voice-video-calling/get-started-with-video-calling)
+
+## Troubleshooting
+
+Please follow the troubleshooting guide [here](https://docs.microsoft.com/azure/communication-services/concepts/troubleshooting-info).
+
+## Next steps
+
+For any new feature requests or bugs please report [here](https://github.com/Azure/Communication/issues).
+
+## Contributing
+
+Currently the project is closed source and new releases of the Calling library will be available [here](https://github.com/Azure/Communication/releases) and release notes can be found [here](https://github.com/Azure/Communication/tree/master/releasenotes).
